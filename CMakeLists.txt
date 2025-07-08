@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 3.0.2)
 project(resource_retriever)
 
-find_package(catkin REQUIRED COMPONENTS rosconsole roslib)
+find_package(catkin REQUIRED COMPONENTS rosconsole)
 
 find_package(Boost REQUIRED)
 

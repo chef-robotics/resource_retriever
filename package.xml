@@ -31,7 +31,6 @@
 
   <build_depend>libcurl-dev</build_depend>
 
-  <depend>roslib</depend>
   <depend>rosconsole</depend>
   <depend>boost</depend>
 
